@@ -1,0 +1,8 @@
+# Discordチャンネルにメッセージを送ることができるDiscordウェブフックオプション
+discord:
+  enabled: true
+  format_style: 'inline' # Discordメッセージを表示する形式 - 'inline'または'embedded'。
+  webhook_url: 'https://discord.com/api/webhooks/channel_id/secret'
+
+# 設定ファイルのバージョン
+config-version: 1

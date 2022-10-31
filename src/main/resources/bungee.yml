@@ -1,0 +1,5 @@
+name: Report
+version: '${project.version}'
+author: Elic0de
+main: com.github.elic0de.report.Report
+description: レポートプラグイン、permissionを持ってる人と Discord webhookに通知
